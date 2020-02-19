@@ -8,5 +8,7 @@ The files included are:
 * /img - The background image file for the website.
 * /vendor - Bootssrap CSS framework, Font, and JavaScript libraries needed for the website to function.
 * /css - CSS files for the website.
+* /screenshots - Screenshots for the project submission requirements
+* Deploy Static Website on AWS Documentation - A document of screenshots including its description and the URL of the static website
 
-
+Access Website in Web Browser with - http://d2shr3tibso9ei.cloudfront.net/index.html
