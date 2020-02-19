@@ -11,4 +11,4 @@ The files included are:
 * /screenshots - Screenshots for the project submission requirements
 * Deploy Static Website on AWS Documentation - A document of screenshots including its description and the URL of the static website
 
-Access Website in Web Browser with - http://d2shr3tibso9ei.cloudfront.net/index.html
+Access Website in Web Browser with - http://d34l9seeihwort.cloudfront.net/index.html
